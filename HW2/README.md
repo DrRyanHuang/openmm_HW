@@ -10,6 +10,11 @@ mask_rcnn_r50_fpn_1x_coco.py
 video_frame_demo.py
 ```
 
+输出视频位置:
+```
+out.mp4
+```
+
 
 超算训练脚本:
 ```shell
